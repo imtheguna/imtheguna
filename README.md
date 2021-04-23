@@ -46,7 +46,7 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/58139175/115851384-81f54b80-a444-11eb-9312-6a3fde0a9920.jpg"></code>
 
 <a href="https://github.com/imtheguna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheguna&theme=light&hide_langs_below=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheguna&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/imtheguna">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtheguna&show_icons=true&theme=light&line_height=27" alt="Guna's github stats"/>
