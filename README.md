@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/imtheguna/">
   <img align="left" alt="Guna's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/twin-eng">
+<a href="https://github.com/imtheguna">
   <img align="left" alt="Guna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/imtheguna">
