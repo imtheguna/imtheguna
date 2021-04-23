@@ -49,7 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheguna&theme=light" />
 </a>
 <a href="https://github.com/imtheguna">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtheguna&show_icons=true&theme=light&line_height=38" alt="Guna's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtheguna&show_icons=true&theme=light&line_height=40" alt="Guna's github stats"/>
 </a>
 
 <div align="center">
