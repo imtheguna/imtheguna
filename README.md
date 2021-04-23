@@ -1,6 +1,6 @@
 ## Hola, I'm Gunanithi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twin-eng&label=Views&color=blue&style=plastic" alt="imguna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtheguna&label=Views&color=blue&style=plastic" alt="imguna" /> </p>
 
 <a href="https://twitter.com/imtheguna">
   <img align="left" alt="Guna's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -45,11 +45,11 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/58139175/115851218-54100700-a444-11eb-86d3-7361b666977b.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/58139175/115851384-81f54b80-a444-11eb-9312-6a3fde0a9920.jpg"></code>
 
-<a href="https://github.com/twin-eng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twin-eng&theme=light&hide_langs_below=1" />
+<a href="https://github.com/imtheguna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheguna&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/twin-eng">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=twin-eng&show_icons=true&theme=light&line_height=27" alt="Guna's github stats"/>
+<a href="https://github.com/imtheguna">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtheguna&show_icons=true&theme=light&line_height=27" alt="Guna's github stats"/>
 </a>
 
 <div align="center">
