@@ -24,6 +24,7 @@
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) development.
 - 🌱 I’m currently learning more about Artificial intelligence.
+- 🤔 I’m looking for help with flutter documentation.
 - 💬 Ask me about Flutter | Python and XD
 - 📫 How to reach me: [Twitter - @imtheguna](https://twitter.com/imtheguna) , [Linkedin - @imtheguna](https://www.linkedin.com/in/imtheguna/)
 - 😄 Pronouns: He/His
