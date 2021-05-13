@@ -14,7 +14,7 @@
 <a href="https://t.me/imtheguna">
   <img align="left" alt="Guna's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/guna.twin/">
+<a href="https://www.instagram.com/imtheguna/">
   <img align="left" alt="Guna's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
