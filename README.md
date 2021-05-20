@@ -28,7 +28,7 @@
 - 💬 Ask me about Flutter | Python and XD
 - 📫 How to reach me: [Twitter - @imtheguna](https://twitter.com/imtheguna) , [Linkedin - @imtheguna](https://www.linkedin.com/in/imtheguna/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 10 hours listening songs everyday.
 
 ### Last 3 packages published on [pub.dev](http://pub.dev/)
 <!-- BLOG-POST-LIST:START -->
