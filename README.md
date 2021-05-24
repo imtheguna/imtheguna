@@ -35,7 +35,7 @@
 - [random password generator](https://pub.dev/packages/random_password_generator)
 - [glassmorphism_kit](https://pub.dev/packages/glassmorphism_kit)
 - [instagram public api](https://pub.dev/packages/instagram_public_api)
-- [facebook_video_download ](https://pub.dev/packages/facebook_video_download)
+- [facebook video download ](https://pub.dev/packages/facebook_video_download)
 <!-- BLOG-POST-LIST:END -->
 
 
